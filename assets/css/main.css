@@ -27,6 +27,10 @@ body {
 	line-height: 1;
 }
 
+#more-projects{
+	font-size: larger;
+}
+
 ol, ul {
 	list-style: none;
 }
