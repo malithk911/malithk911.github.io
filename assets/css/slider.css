@@ -111,7 +111,7 @@
 }
 
 .manual-btn{
-    border: 2px solid #04fae5;
+    border: 2px solid #ffffff;
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
@@ -126,7 +126,7 @@
 }
 
 .manual-btn:hover{
-    background: #04fae5;
+    background: #ffffff;
 
 }
 
