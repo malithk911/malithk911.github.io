@@ -3563,6 +3563,43 @@ input, select, textarea {
 				pointer-events: none;
 				opacity: 0;
 			}
+			#site:hover{
+				color: #00f0ff;
+			}
+			#projects{
+				margin-left: 675px;
+			}
+			#projects:hover{
+				color: #00f0ff;
+			}
+			#about{
+				margin-left: 475px;
+			}
+			#about:hover{
+				color: #00f0ff;
+			}
+			#contact{
+				margin-left: 875px;
+			}
+			#contact:hover{
+				color: #00f0ff;
+			}
+
+/*----------------------------------------------------------------*/
+/*@media screen and (max-width: 736px) {*/
+/*	#projects{*/
+/*		margin-left: 170px;*/
+/*	}*/
+
+/*	#about{*/
+/*		margin-left: 90px;*/
+/*	}*/
+
+/*	#contact{*/
+/*		margin-left: 270px;*/
+/*	}*/
+
+/*}*/
 
 /* Banner */
 
